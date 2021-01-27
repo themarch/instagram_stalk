@@ -1,0 +1,28 @@
+{
+  "name": "instagram_stalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "fs": "^0.0.1-security",
+    "instagram-web-api": "^2.2.2",
+    "text-file-diff": "^1.4.6",
+    "tough-cookie-filestore2": "^1.0.0",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themarch/instagram_stalk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themarch/instagram_stalk/issues"
+  },
+  "homepage": "https://github.com/themarch/instagram_stalk#readme"
+}
